@@ -414,10 +414,6 @@ footer {
         background-color: #11111170;
     }
 
-    #menuSmall{
-        Float: right;
-    }
-
     .bar1,
     .bar2,
     .bar3 {
@@ -432,6 +428,7 @@ footer {
         position: relative;
         display: block;
         height: 30px;
+        float: left;
     }
 
     #navMenu:hover .navBar {
