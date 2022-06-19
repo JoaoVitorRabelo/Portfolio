@@ -106,7 +106,7 @@ header {
     display: table;
     position: relative;
     text-align: center;
-    background: #151515 url("../images/HeaderIMG.png") no-repeat center bottom;
+    background: #151515 url("../Images/HeaderIMG.png") no-repeat center bottom;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -webkit-background-size: cover;
