@@ -414,6 +414,10 @@ footer {
         background-color: #11111170;
     }
 
+    #menuSmall{
+        Float: right;
+    }
+
     .bar1,
     .bar2,
     .bar3 {
