@@ -318,6 +318,7 @@ label span {
     margin: 0;
     padding: 8px 5px;
     cursor: pointer;
+    font-size: 1.48rem;
 }
 
 .inputs {
@@ -467,10 +468,10 @@ footer {
     #emails p {
         font-size: 1.1rem;
     }
-
-    #menuSmall {
-        display: inline-block;
-        cursor: pointer;
+    
+    #emails input[type="submit"],
+    #emails input[type="reset"] {
+        font-size: 1.1rem;
     }
     /*Email*/
 }
